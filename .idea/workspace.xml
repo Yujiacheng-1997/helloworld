@@ -1,16 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74cb0715-e7f5-4a8f-9a06-4d1e9646dd30" name="Default Changelist" comment="" />
+    <list default="true" id="74cb0715-e7f5-4a8f-9a06-4d1e9646dd30" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HiWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HiWorld.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\helloworld\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1blkLG5kRotBVVEXIQ2qSPqwRw8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -42,17 +65,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589214009996</updated>
+      <workItem from="1589214011480" duration="739000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1589214393711</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589214393711</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="465" y="239" key="#Notifications" timestamp="1589214555637">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="465" y="239" key="#Notifications/0.0.1440.920@0.0.1440.920" timestamp="1589214555637" />
     <state x="465" y="239" key="#Project_Structure" timestamp="1589214023987">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="465" y="239" key="#Project_Structure/0.0.1440.920@0.0.1440.920" timestamp="1589214023987" />
+    <state x="536" y="9" key="CommitChangelistDialog2" timestamp="1589214392335">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="536" y="9" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1589214392335" />
     <state x="653" y="327" key="FileChooserDialogImpl" timestamp="1589214132677">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="653" y="327" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1589214132677" />
+    <state x="465" y="307" key="Vcs.Push.Dialog.v2" timestamp="1589214482323">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="465" y="307" key="Vcs.Push.Dialog.v2/0.0.1440.920@0.0.1440.920" timestamp="1589214482323" />
   </component>
 </project>
